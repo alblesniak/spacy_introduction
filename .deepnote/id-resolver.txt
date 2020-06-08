@@ -1,0 +1,6 @@
+5dcd4ee7-f958-4b8b-97cd-8b0d0a7ded35,/init.ipynb
+cd90b28b-d574-4aae-8dec-61b1b7a67319,/spacy_intro.ipynb
+b1ecd50d-9e11-43f0-bbb3-dcbb35514b39,/images
+0842001c-fe9a-4cfd-bb92-8599893250f3,/images/untitled
+1fb7cae9-4558-4bd5-832b-7cbd61e901d2,/untitled
+82a420fe-adbb-460b-915e-d0da8ddfcc4f,/python_wstep.ipynb
